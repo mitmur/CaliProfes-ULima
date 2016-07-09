@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "193252779150",
+    "firebase_url": "https://caliprofes.firebaseio.com",
+    "project_id": "caliprofes",
+    "storage_bucket": "caliprofes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193252779150:android:eb236ba569db27d5",
+        "android_client_info": {
+          "package_name": "pe.edu.ulima.caliprofesulima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193252779150-fd07feblkdon5vppnf1uru1lj76belr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt4aC-I320N63l-ov_aeEFp5CIwPifHVc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
